@@ -24,9 +24,9 @@ var MENU = {
     }
 }
 var resources = {
-    "water": 100,
-    "milk": 50,
-    "coffee": 100,
+    "water": 200,
+    "milk": 100,
+    "coffee": 200,
 }
 
 var coins = {
@@ -138,3 +138,6 @@ while (inputCoffee != "off") {
         console.log("give valid item as input !");
     }
 }
+
+
+
